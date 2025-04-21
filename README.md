@@ -1,3 +1,4 @@
 # Taller logica de Javascript
-Daniela Coavas
+Daniela Coavas	
+
 Recomiendo abrir página HTML para ver la pagina de presentación del taller. 

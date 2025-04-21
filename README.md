@@ -1,1 +1,2 @@
-# Taller1_JS
+# Taller logica de Javascript
+Daniela Coavas
